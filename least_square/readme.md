@@ -1,1 +1,1 @@
-![alt text](chmip/tree/master/least_square/gr.jpg "Описание будет тут")
+![alt text](https://github.com/Mopre4/chmip/tree/master/least_square/gr.jpg "График прямой по методу наименьших квадртов")
