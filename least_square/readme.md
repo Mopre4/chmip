@@ -1,0 +1,1 @@
+![alt text](chmip/tree/master/least_square/gr.jpg "Описание будет тут")
